@@ -7,6 +7,7 @@ body {
 }
 #map {
   width: 918px;
+  outline: 1px solid #000;
   height: 665px;
   background: gray;
 }
